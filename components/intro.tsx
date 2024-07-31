@@ -44,7 +44,7 @@ export default function Intro() {
         <span className="font-bold">frontened web developer</span> as{" "}
         <span className="font-bold">a student</span> looking for job. I enjoy
         building <span className="italic">sites & apps</span>. My focus is{" "}
-        <span className="underline">React (Next.js) also leaning AI</span>.
+        <span className="underline">React (Next.js) also learning AI</span>.
       </motion.h1>
       <motion.div
         className="flex flex-col sm:flex-row items-center justify-center gap-2 px-4 text-lg font-medium"
