@@ -10,6 +10,7 @@ export default function Contact() {
           
         <a className="underline" href="mailto:fhsaleem8104@gmail.com">
          contact me directly siqra6091@gmail.com 
+         and also fhsaleem8104@gmail.com
         </a>{" "}
         
       </p>

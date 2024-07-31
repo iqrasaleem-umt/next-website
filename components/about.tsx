@@ -6,7 +6,7 @@ export default function About() {
         <h2 className='text-3xl font-medium capitalize mb-8'>About me</h2>
         <p className='mb-3'> 
         After graduating with a degree in{" "}
-        <span className="font-medium">Mathematics</span>, I decided to pursue my
+        <span className="font-medium">Bsc(computer,mathematics,statistics)</span>, I decided to pursue my
         passion for programming. I enrolled in a coding bootcamp and learned{" "}
         <span className="font-medium">full-stack web development</span>.{" "}
         <span className="italic">My favorite part of programming</span> is the
@@ -18,13 +18,13 @@ export default function About() {
         </span>
         . I am also familiar with TypeScript . I am always looking to
         learn new technologies. I am currently looking for a{" "}
-        <span className="font-medium">full-time position</span> as a software
+        <span className="font-medium">a job as a student</span> as a software
         developer.
         </p>
         <p>
-        <span className="italic">When I'm not coding</span>, I enjoy playing
-        video games, reading informative books. I also enjoy{" "}
-        <span className="font-medium">learning new things</span>. I am currently
+        <span className="italic">I am learning Ai</span> Ai(artificial-intelligence)
+       and coding laguage python which is compatible for AI{" "}
+        <span className="font-medium"></span>. I am currently
         learning about{" "}
         <span className="font-medium">history and philosophy</span>. I'm also
         learning about other computer technology
