@@ -16,14 +16,7 @@ export default function Intro() {
       >
 
         <div className="flex items-center justify-center">
-        <Image
-            src="/Snapchat-1395413165.jpg"
-            alt=""
-            width={300}
-            height={300}
-            
-            className=" h-24 w-24 rounded-full object-cover border-[0.35rem] border-white shadow-xl"
-          />
+       
           <div className="relative">
            
               
