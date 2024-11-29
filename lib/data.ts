@@ -92,10 +92,7 @@ export const skillsData = [
   "Node.js",
   "Git",
   "Tailwind",
-   "GraphQL",
-  "Apollo",
-  "Express",
-  "PostgreSQL",
+   
   ,"Framer Motion",
   
   
