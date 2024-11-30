@@ -24,10 +24,10 @@ export default function About() {
         <p>
         <span className="italic">I am learning Ai</span> Ai(artificial-intelligence)
        and coding laguage python which is compatible for AI{" "}
-        <span className="font-medium"></span>. I am currently
-        learning about{" "}
-        <span className="font-medium">history and philosophy</span>. I'm also
-        learning about other computer technology
+        <span className="font-medium"></span> I am currently
+        working to {" "}
+        <span className="font-medium">develop user interact website with responsiveness
+        develop </span> custom Gpt with open AI.
         </p>
     </section>
   )
